@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bubble
+  - letter
+  - Letter
+  - TopWall
+  - A
+  - plus
+  - Undefined
+  - Arrow
+  - destroyArrow
+  - bow
+  - Shark
+  - bomb
+  - extraArrow
+  - collect_bow
+  - HintArrowTag
+  - Canvas_Master
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - Arrows
+  - Post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3887285805
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SidePanel
+    uniqueID: 215309317
+    locked: 0
+  - name: Player
+    uniqueID: 3515530189
+    locked: 0
